@@ -1,0 +1,10 @@
+name = "paywall-worker"
+main = "paywall-worker.js"
+compatibility_date = "2025-12-06"
+
+# Optional: Uncomment and configure these if you want to use environment variables
+# [vars]
+# MY_WALLET = "0xea859ca79b267afdb7bd7702cd93c4e7c0db16ecaca862fb38c63d928f821a1b"
+# PRICE_MOVE = "0.01"
+# RPC_URL = "https://30732.rpc.thirdweb.com"
+
