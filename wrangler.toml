@@ -1,4 +1,4 @@
-name = "paywall-worker"
+name = "bot-paywall-worker"
 main = "paywall-worker.js"
 compatibility_date = "2025-12-06"
 
